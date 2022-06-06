@@ -7,5 +7,5 @@ A flutter project to provide Geo Fence functionality in Android and IOS.
 ### [flutter_animated_container_example](https://github.com/tarique-khan/animated_container_example)
 A flutter project to demonstrate scaling animation using animated container
 
-### [configurable_expansion_tile_plus](https://github.com/tarique-khan/configurable_expansion_tile_plus)
+### [advance_expansion_tile](https://github.com/tarique-khan/configurable_expansion_tile_plus)
 A flutter plugin that allows to manually collapase, expand, toggle the Expansion tile
