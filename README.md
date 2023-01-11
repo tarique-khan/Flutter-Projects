@@ -1,6 +1,9 @@
 # Flutter Projects
 This repository contains all flutter projects
 
+###[flutter_read_along](https://github.com/tarique-khan/flutter-read-along)
+A flutter project to demonstrate read along feature to improve reading and learning
+
 ### [flutter_stable_geofence](https://github.com/tarique-khan/flutter_stable_geofence)
 A flutter project to provide Geo Fence functionality in Android and IOS.
 
