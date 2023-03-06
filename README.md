@@ -12,3 +12,6 @@ A flutter project to demonstrate scaling animation using animated container
 
 ### [advance_expansion_tile](https://github.com/tarique-khan/configurable_expansion_tile_plus)
 A flutter plugin that allows to manually collapase, expand, toggle the Expansion tile
+
+###[flutter_password_protected_pdf_checker](https://github.com/tarique-khan/flutter_password_protected_pdf_checker)
+A flutter plugin that will help to check whether the PDF is password protected or not without opening that PDF.
